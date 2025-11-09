@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Родолог Марина Бубенцева</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(to bottom, #e0f2e9, #c8d5b9);
+      color: #3e3e3e;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #6b8e23;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: rgba(255,255,255,0.8);
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Марина Бубенцева — Родолог</h1>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="praktiki.html">Практики</a>
+      <a href="blog.html">Блог</a>
+      <a href="contact.html">Контакты</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Приветствие</h2>
+    <p>Добро пожаловать! Я помогаю людям работать с родом, исцелять родовые программы и возвращать силу предков. Здесь вы найдете ритуалы, медитации и мудрость рода, чтобы жить в гармонии с собой и своей семьей.</p>
+  </section>
+</body>
+</html><!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Блог — Марина Бубенцева</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Блог Марина Бубенцева</h1>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="praktiki.html">Практики</a>
+      <a href="blog.html">Блог</a>
+      <a href="contact.html">Контакты</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Статьи и мудрость рода</h2>
+    <article>
+      <h3>Сила предков в нашей жизни</h3>
+      <p>Родовые связи влияют на наши решения, здоровье и счастье. Познавая род, мы возвращаем себе энергию и гармонию.</p>
+    </article>
+    <article>
+      <h3>Как работать с родовыми программами</h3>
+      <p>Пошаговые практики для исцеления и очищения рода помогут снять блоки и открыть новые возможности.</p>
+    </article>
+  </section>
+</body>
+</html><!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Практики — Марина Бубенцева</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Марина Бубенцева — Практики</h1>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="praktiki.html">Практики</a>
+      <a href="blog.html">Блог</a>
+      <a href="contact.html">Контакты</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Мои практики</h2>
+    <ul>
+      <li>Медитация “7 поколений” — визуализация предков</li>
+      <li>Ритуал Благодарности Роду</li>
+      <li>Обряд Возврата Силы Предков</li>
+      <li>Прощение и примирение с линией рода</li>
+      <li>Снятие родового обета “Не быть счастливым”</li>
+    </ul>
+  </section>
+</body>
+</html>https://formspree.io/f/koksharovamarina87<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Контакты — Марина Бубенцева</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Связаться с Мариной Бубенцевой</h1>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="praktiki.html">Практики</a>
+      <a href="blog.html">Блог</a>
+      <a href="contact.html">Контакты</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Напишите мне</h2>
+    <form action="https://formspree.io/f/koksharovamarina87" method="POST">
+      <label>Имя:<br>
+        <input type="text" name="name" required>
+      </label><br><br>
+      <label>Email:<br>
+        <input type="email" name="_replyto" required>
+      </label><br><br>
+      <label>Сообщение:<br>
+        <textarea name="message" rows="5" required></textarea>
+      </label><br><br>
+      <button type="submit">Отправить 💌</button>
+    </form>
+  </section>
+</body>
+</html>
